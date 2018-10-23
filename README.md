@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/dimitriskokkalakis/JavaPipeline/_apis/build/status/dkokkal.pipelines-java)](https://dev.azure.com/dimitriskokkalakis/JavaPipeline/_build/latest?definitionId=1)
 
 # Contributing
 
